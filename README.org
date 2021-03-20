@@ -1,0 +1,3 @@
+#+TITLE: dash.lisp
+
+A poor man's [[https://github.com/magnars/dash.el][dash.el]] for Common Lisp
